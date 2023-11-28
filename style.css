@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    margin: 0 auto;
+    background-color: rgb(244, 244, 226);
+    
+}
+.container{
+    width: 600px;
+    height: 30%;
+    background-color: rgb(108, 240, 240);
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 1px;
+    margin: 0 auto;
+}
+img{
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+}
+input{
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+thead{
+    width: 300px;
+    margin-left: 30px;
+    justify-content: space-between;
+}
+#linha{
+    margin-top: 10px;
+    background-color: rgb(251, 236, 217, .8);
+}
+table{
+    width: 500px;
+    margin-top: 200px;
+    border: 1px solid;
+    margin: 0 auto;
+    margin-bottom: 15px;
+
+    
+}
+td{
+    padding: 5px;
+}
+tr{
+    justify-content: space-between;
+}
+
+.btn{
+    width: 60px;
+    height: 25px;
+}
